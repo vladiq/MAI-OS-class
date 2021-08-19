@@ -1,4 +1,4 @@
-# Operating Systems Labs in MAI
+# Operating Systems Labs in MAI 
 
 [Lab 1: Introduction to strace](https://github.com/vladiq/MAI-OS-class/tree/master/lab_01)
 
